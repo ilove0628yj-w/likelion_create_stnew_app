@@ -1,0 +1,6 @@
+
+
+# Streamlit의 기본 'dark' 테마를 사용합니다.
+[theme]
+base = "dark"
+
